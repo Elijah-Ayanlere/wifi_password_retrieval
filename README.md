@@ -7,7 +7,7 @@ This Python script retrieves Wi-Fi profiles and passwords on a Windows system us
 1. **Run the Script:**
    - Execute the script using a Python interpreter:
      ```bash
-     python wifi_password_retrieval.py
+     python wifipass.py
      ```
 
 2. **View Wi-Fi Profiles and Passwords:**
